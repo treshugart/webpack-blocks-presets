@@ -1,6 +1,8 @@
 {
+  "publishConfig": {
+    "access": "public"
+  },
   "name": "@treshugart/webpack-blocks-presets",
-  "version": "1.0.0",
   "description": "Common configurations as presets for webpack-blocks.",
   "main": "index.js",
   "scripts": {
