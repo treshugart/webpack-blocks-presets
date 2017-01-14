@@ -13,5 +13,6 @@
   "peerDependencies": {
     "@webpack-blocks/webpack2": "*",
     "@webpack-blocks/babel6": "*"
-  }
+  },
+  "version": "0.0.0"
 }
