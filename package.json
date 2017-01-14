@@ -1,0 +1,15 @@
+{
+  "name": "@treshugart/webpack-blocks-presets",
+  "version": "1.0.0",
+  "description": "Common configurations as presets for webpack-blocks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trey Shugart <treshugart@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@webpack-blocks/webpack2": "*",
+    "@webpack-blocks/babel6": "*"
+  }
+}
