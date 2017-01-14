@@ -4,7 +4,7 @@
   "description": "Common configurations as presets for webpack-blocks.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "author": "Trey Shugart <treshugart@gmail.com>",
   "license": "MIT",
